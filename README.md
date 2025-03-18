@@ -1,13 +1,13 @@
 # Backup-Docker
 
 ...
-#------------------------------------------------------------------
-# Cambiar los permisos del archivo para que pueda ser ejecutado por el administrador de Cron:
-#chmod a+x /root/backup-docker.sh
 
-# Hacer copìa de seguridad
-# $ sudo ./backup-docker.sh
-#------------------------------------------------------------------
+Cambiar los permisos del archivo para que pueda ser ejecutado por el administrador de Cron:
+$ chmod a+x /root/backup-docker.sh
+
+Hacer copìa de seguridad
+$ sudo ./backup-docker.sh
+
 ...
 
 Ver vídeo:
