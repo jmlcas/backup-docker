@@ -1,8 +1,9 @@
 #!/bin/bash
 
-backupDate=$(date "+%Y-%m-%d")
+backupDate=$(date  +'%F')
 echo $backupDate
 
+# Para saber la ruta comando "pwd"
 cd /root
 
 #------------------------------------------------------------------
